@@ -1,0 +1,9 @@
+livekit-agents[google]~=1.5
+livekit-plugins-noise-cancellation~=0.2
+livekit-plugins-ai_coustics
+python-dotenv
+httpx
+
+speechrecognition
+pyttsx3
+flask
